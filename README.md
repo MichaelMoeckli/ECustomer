@@ -17,4 +17,4 @@ Dependencies:
 -Mysql
 -DevTools
 
-The minimal example database is just here for test runs
+The minimal example database is just here for tests
