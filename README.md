@@ -16,3 +16,5 @@ Dependencies:
 -Thymeleaf
 -Mysql
 -DevTools
+
+The minimal example database is just here for test runs
